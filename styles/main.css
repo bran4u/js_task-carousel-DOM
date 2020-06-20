@@ -70,6 +70,8 @@ li {
       -ms-flex-align: center;
           align-items: center;
   margin-bottom: 10px; }
+  .carousel__btn {
+    cursor: pointer; }
   .carousel__wrapper {
     height: 170px;
     width: 320px;
